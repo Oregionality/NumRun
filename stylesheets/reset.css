@@ -31,10 +31,7 @@ footer, header, hgroup, menu, nav, section {
 body {
 	line-height: 1;
 }
-ol {
-    list-style-type: number;
-    padding: 20px;
-}
+
 blockquote, q {
 	quotes: none;
 }
