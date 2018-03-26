@@ -33,6 +33,7 @@ body {
 }
 ol {
     list-style-type: number;
+    padding: 20px;
 }
 blockquote, q {
 	quotes: none;
