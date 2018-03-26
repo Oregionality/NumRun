@@ -43,6 +43,12 @@ aside {
   background-color: #e7b300;
 }
 
+ 
+ol {
+    list-style-type: number;
+    padding: 20px;
+}
+
 footer {
   grid-column: span 3;
   padding: 30px;
