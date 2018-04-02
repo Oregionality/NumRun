@@ -6,9 +6,6 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
-  background: url(/images/noise.jpg);
-  background-repeat: repeat;
-  opacity: 0.1;
 }  
 .containter {
   background: url(/images/noise.jpg);
