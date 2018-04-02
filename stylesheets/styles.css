@@ -7,11 +7,6 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }  
-.containter {
-  background: url(/images/noise.jpg);
-  background-repeat: repeat;
-  opacity: 0.1;
-}
 
 @media (min-width: 768px) {
   .container {
