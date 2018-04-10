@@ -1,0 +1,446 @@
+<table class="rates table">
+	<thead class="head">
+		<tr class="head">
+			<td colspan="3"><h2>2018 Tax Rates Schedule X - Single</h2></td>
+		</tr>
+		<tr class="head">
+			<th><h3>If taxable income is over</h3></th>
+			<th><h3>But not over</h3></th>
+			<th><h3>The tax is</h3></th>
+		</tr>
+	</thead>
+	<tbody>
+	<tr class="row">
+		<td><p>$0</p></td>
+		<td><p>$9,525 </td>
+		<td><p>10% of the taxable amount</p></td>
+	</tr>
+	<tr class="row">
+		<td><p>$9,525 </td>
+		<td><p>$38,700 </td>
+		<td><p>$952.50 plus 12% of the excess over $9,525</td>
+	</tr>
+	<tr class="row">
+		<td><p>$38,700 </td>
+		<td><p>$82,500 </td>
+		<td><p>$4,453.50 plus 22% of the excess over $38,700</p></td>
+	</tr>
+	<tr class="row">
+		<td><p>$82,500</p></td>
+		<td><p>$157,500</p></td>
+		<td><p>$14,089.50 plus 24% of the excess over $82,500</p></td>
+	</tr>
+	<tr class="row">
+		<td><p>$157,500</p></td>
+		<td><p>$200,000</p></td>
+		<td><p>$32,089.50 plus 32% of the excess over $157,500</p></td>
+	</tr>
+	<tr class="row">
+		<td><p>$200,000</p></td>
+		<td><p>$500,000</p></td>
+		<td><p>$45,689.50 plus 35% of the excess over $200,000</p></td>
+	</tr>
+	<tr class="row">
+		<td><p>Over $500,000</p></td>
+		<td><p>no limit</p></td>
+		<td><p>$150,689.50 plus 37% of the excess over $500,000</p></td>
+	</tr>
+</tbody>
+</table>
+
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="3"><h2>2018 Tax Rates Schedule Y-1 - Married Filing Jointly or Qualifying Widow(er)</h2></td>
+		</tr>
+		
+		<tr class="head">
+			<th><h3>If taxable income is over</h3></th>
+			<th><h3>But not over</h3></th>
+			<th><h3>The tax is</h3></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>$0</p></td>
+			<td><p>$19,050</p></td>
+			<td><p>10% of the taxable amount</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$19,050</p></td>
+			<td><p>$77,400</p></td>
+			<td><p>$1,905 plus 12% of the excess over $19,050</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$77,400</p></td>
+			<td><p>$165,000</p></td>
+			<td><p>$8,907 plus 22% of the excess over $77,400</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$165,000</p></td>
+			<td><p>$315,000</p></td>
+			<td><p>$28,179 plus 24% of the excess over $165,000</p></td>
+		</tr>	
+		<tr class="row">
+			<td><p>$315,000</p></td>
+			<td><p>$400,000</p></td>
+			<td><p>$64,179 plus 32% of the excess over $315,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$400,000</p></td>
+			<td><p>$600,000</p></td>
+			<td><p>$91,379 plus 35% of the excess over $400,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$600,000</p></td>
+			<td><p>no limit</p></td>
+			<td><p>$161,379 plus 37% of the excess over $600,000</p></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="3"><h2>2018 Tax Rates Schedule Y-2 - Married Filing Separately</h2></td>
+		</tr>
+		<tr class="head">
+			<th><h3>If taxable income is over</h3></th>
+			<th><h3>But not over</h3></th>
+			<th><h3>The tax is</h3></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>$0</p></td>
+			<td><p>$9,525</td>
+			<td><p>10% of the taxable amount</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$9,525</td>
+			<td><p>$38,700</p></td>
+			<td><p>$952.50 plus 12% of the excess over $9,525</td>
+		</tr>
+		<tr class="row">
+			<td><p>$38,700</p></td>
+			<td><p>$82,500</p></td>
+			<td><p>$4,453.50 plus 22% of the excess over $38,700</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$82,500</p></td>
+			<td><p>$157,500</td>
+			<td><p>$14,089.50 plus 24% of the excess over $82,500</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$157,500</td>
+			<td><p>$200,000</p></td>
+			<td><p>$32,089.50 plus 32% of the excess over $157,500</td>
+		</tr>
+		<tr class="row">
+			<td><p>$200,000</p></td>
+			<td><p>$300,000</p></td>
+			<td><p>$45,689.50 plus 35% of the excess over $200,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Over $300,000</p></td>
+			<td><p>no limit</p></td>
+			<td><p>$80,689.50 plus 37% of the excess over $300,000</p></td>
+		</tr>
+	</tbody>
+</table>
+
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="3"><h2>2018 Tax Rates Schedule Z - Head of Household</h2></td>
+		</tr>
+		<tr class="head">
+			<th><h3>If taxable income is over</h3></th>
+			<th><h3>But not over</h3></th>
+			<th><h3>The tax is</h3></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>$0</p></td>
+			<td><p>$13,600</p></td>
+			<td><p>10% of the taxable amount</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$13,600</p></td>
+			<td><p>$51,800</p></td>
+			<td><p>$1,360 plus 12% of the excess over $13,600</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$51,800</p></td>
+			<td><p>$82,500</p></td>
+			<td><p>$5,944 plus 22% of the excess over $51,800</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$82,500</p></td>
+			<td><p>$157,500</p></td>
+			<td><p>$12,698 plus 24% of the excess over $82,500</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$157,500</p></td>
+			<td><p>$200,000</p></td>
+			<td><p>$30,698 plus 32% of the excess over $157,500</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$200,000</p></td>
+			<td><p>$500,000</p></td>
+			<td><p>$44,298 plus 35% of the excess over $200,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$500,000</p></td>
+			<td><p>no limit</p></td>
+			<td><p>$149,298 plus 37% of the excess over $500,000</p></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="3"><h2>2018 Tax Rates Estates &amp; Trusts</h2></td>
+		</tr>
+		<tr class="head">
+			<th><h3>If taxable income is over</h3></th>
+			<th><h3>But not over</h3></th>
+			<th><h3>The tax is</h3></th>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>$0</p></td>
+			<td><p>$2,550</p></td>
+			<td><p>10% of the taxable income</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$2,550</p></td>
+			<td><p>$9,150</p></td>
+			<td><p>$255 plus 24% of the excess over $2,550</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$9,150</p></td>
+			<td><p>$12,500</p></td>
+			<td><p>$1,839 plus 35% of the excess over $9,150</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>$12,500</p></td>
+			<td><p>no limit</p></td>
+			<td><p>$3,011.50 plus 37% of the excess over $12,500</p></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="2"><h2>Social Security 2018 Tax Rates</h2></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>Base Salary</p></td>
+			<td><p>$128,700</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Social Security Tax Rate</p></td>
+			<td><p>6.2%</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Maximum Social Security Tax</p></td>
+			<td><p>$7,979.40</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Medicare Base Salary</p></td>
+			<td><p>unlimited</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Medicare Tax Rate</p></td>
+			<td><p>1.45%</p></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="2"><h2>Additional Medicare 2018 Tax Rates</h2></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>Additional Medicare Tax</p></td>
+			<td><p>0.9%</p></td>
+		</tr>
+		<tr class="row">
+			<td><p><strong>Filing status</strong></p></td>
+			<td><p><strong>Compensation over</strong></p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Married filing jointly</p></td>
+			<td><p>$250,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Married filing separate</p></td>
+			<td><p>$125,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Single</p></td>
+			<td><p>$200,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Head of household (with qualifying person)</p></td>
+			<td><p>$200,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Qualifying widow(er) with dependent child</p></td>
+			<td><p>$200,000</p></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="2"><h2>Education 2018 Credit and Deduction Limits</h2></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>American Opportunity Tax Credit (Hope)</p></td>
+			<td><p>$2,500</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Lifetime Learning Credit</p></td>
+			<td><p>$2,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Student Loan Interest Deduction</p></td>
+			<td><p>$2,500</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Coverdell Education Savings Contribution</p></td>
+			<td><p>$2,000</p></td>
+		</tr>
+	</tbody>
+</table>
+
+<table class="rates table">
+	<thead>
+		<tr class="head">
+			<td colspan="2"><h2>Miscellaneous 2018 Tax Rates</h2></td>
+		</tr>
+	</thead>
+	<tbody>
+		<tr class="row">
+			<td><p>Standard Deduction:</p></td>
+			<td></td>
+		</tr>
+		<tr class = "row">
+			<td>
+				<ul>
+					<li>Married filing jointly or Qualifying Widow(er)</li>
+				</ul>
+			</td>
+			<td><p>$24,000</p></td>
+		</tr>
+		<tr class = "row">
+			<td>
+				<ul>
+					<li>Head of household</li>
+				</ul>
+			</td>
+			<td><p>$18,000</p></td>
+		</tr>
+		<tr class = "row">
+			<td>
+				<ul>
+					<li>Sinlge or Married filling separately</li>
+				</ul>
+			</td>
+			<td><p>$12,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Business Equipment Expense Deduction</p></td>
+			<td><p>$1,000,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Prior-year safe harbor for estimated taxes of higher-income</p></td>
+			<td><p>110% of your 2017 tax liability</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Standard mileage rate for business driving</p></td>
+			<td><p>54.5 cents</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Standard mileage rate for medical/moving driving</p></td>
+			<td><p>18 cents</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Standard mileage rate for charitable driving</p></td>
+			<td><p>14 cents</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Child Tax Credit</p></td>
+			<td><p>$2,000 per qualifying child</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Maximum capital gains tax rate for taxpayers with adjusted net capital gain up to $77,200 for joint filers and surviving spouses, $51,700 for heads of household, $38,600 for single filers, $38,600 for married taxpayers filing separately, and $2,600 for estates and trusts</p></td>
+			<td><p>0%</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Maximum capital gains tax rate for taxpayers with adjusted net capital gain over the amount subject to the 0% rate, and up to $479,000 for joint filers and surviving spouses, $452,400 for heads of household, $425,800 for single filers, $239,500 for married taxpayers filing separately, and $12,700 for estates and trusts</p></td>
+			<td><p>15%</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Maximum capital gains tax rate for taxpayers with adjusted net capital gain over $479,000 for joint filers and surviving spouses, $452,400 for heads of household, $425,800 for single filers, $239,500 for married taxpayers filing separately, and $12,700 for estates and trusts</p></td>
+			<td><p>20%</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Capital gains tax rate for unrecaptured Sec. 1250 gains</p></td>
+			<td><p>25%</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Capital gains tax rate on collectibles and qualified small business stock</p></td>
+			<td><p>28%</p></td>
+		</tr>
+		<tr class="row">
+			<td valign="top"><p>Maximum contribution for Traditional/Roth IRA</p></td>
+			<td><p>$5,500 if under age 50<br />$6,500 if 50 or older</p></td>
+		</tr>
+		<tr class="row">
+			<td valign="top"><p>Maximum employee contribution to SIMPLE IRA</p></td>
+			<td><p>$12,500 if under age 50<br />$15,500 if 50 or older</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Maximum Contribution to SEP IRA</p></td>
+			<td><p>25% of compensation up to $55,000</p></td>
+		</tr>
+		<tr class="row">
+			<td valign="top"><p>401(k) maximum employee contribution limit</p></td>
+			<td><p>$18,500 if under age 50<br />$24,000 if 50 or older</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Self-employed health insurance deduction</p></td>
+			<td><p>100%</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Estate tax exemption</p></td>
+			<td><p>$11,200,000</p></td>
+		</tr>
+		<tr class="row">
+			<td><p>Annual Exclusion for Gifts</p></td>
+			<td><p>$15,000</p></td>
+		</tr>
+			<tr class="row">
+			<td><p>Foreign Earned Income Exclusion</p></td>
+			<td><p>$104,100</p></td>
+		</tr>
+	</tbody>
+</table>
